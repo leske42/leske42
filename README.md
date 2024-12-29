@@ -4,7 +4,7 @@ I thoroughly hate promoting myself so I postponed making this ✨ _special_ ✨ 
 
 Currently studying (relatively) low level coding at 42 Vienna coding school (I'm in the Common Core).
 
-### Things I'm comfortable with:
+**Things I'm comfortable with:**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,vscode)](https://skillicons.dev)
 
