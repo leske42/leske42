@@ -6,7 +6,7 @@ Currently studying (relatively) low level coding at 42 Vienna coding school (I'm
 
 **Things I'm comfortable with:**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,vscode,docker)](https://skillicons.dev)
 
 The world is incredibly huge & vast & interesting, and I will never know more than a fraction of it. Anything finite compared to the infinite is nothing. Therefore I usually feel bad about claiming I "know" this or that. Mostly what I have is curiosity.
 
