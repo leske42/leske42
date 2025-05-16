@@ -12,9 +12,10 @@ The world is incredibly huge & vast & interesting, and I will never know more th
 
 ### Check out some of my projects:
 
-- Currently building an HTTP 1.1 [webserver](https://github.com/LeaYeh/webserver) with a team from school
+- Recently built an HTTP 1.1 [webserver](https://github.com/LeaYeh/webserver) with a team from school
 - I made a [guide](https://github.com/leske42/CPP09) for implementing the Ford-Johnson merge insertion sort
-- We built a [shell](https://github.com/sumon-ohid/42-minishell) with [Sumon](https://github.com/sumon-ohid)
+- We built a [shell](https://github.com/sumon-ohid/42-minishell) in C with [Sumon](https://github.com/sumon-ohid)
+- Also made the fastest [search engine](https://github.com/bgebetsb/42-rush-hotrace) on Vienna campus with [Bernhard](https://github.com/bgebetsb)
 - Tiny [exercises](https://github.com/leske42/Rust-Piscine) I did in Rust
 - My [solutions](https://github.com/leske42/Advent-of-Code) to Advent of Code in C and C++
 
