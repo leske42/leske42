@@ -4,6 +4,8 @@ I thoroughly hate promoting myself so I postponed making this ✨ _special_ ✨ 
 
 Currently studying (relatively) low level coding at 42 Vienna coding school (I'm in the Common Core).
 
+If you are also from 42, or just deal with C or C++ then I can recommend you to read my introduction to [Undefined Behavior](https://github.com/leske42/Foundations/blob/main/UB/README.md).
+
 **Things I'm comfortable with:**
 
 [![My Skills](https://skillicons.dev/icons?i=c,bash,git,vscode,docker)](https://skillicons.dev)
